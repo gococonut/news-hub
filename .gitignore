@@ -1,0 +1,17 @@
+# https://github.com/github/gitignore/blob/master/Node.gitignore
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# custom
+node_modules/
+.eslintcache
+.idea
+dist
